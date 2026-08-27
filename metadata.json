@@ -1,0 +1,8 @@
+{
+  "name": "Cliptix Design Studio",
+  "description": "A luxury, futuristic dark-mode AI design studio with neon radial lighting, glassmorphism, and Cliptix signature gradient aesthetics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
